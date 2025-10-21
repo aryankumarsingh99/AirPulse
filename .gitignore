@@ -1,0 +1,141 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Logs
+logs
+*.log
+lerna-debug.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# parcel-bundler cache
+.cache
+
+# Next.js build output
+.next/
+
+# Vite build output
+dist/
+
+# Build output
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# React Native
+# Android
+/android/.gradle
+/android/app/build/
+/android/build/
+/android/gradle.properties
+/android/gradle-wrapper.jar
+/android/.idea/
+/android/.gradle/
+*.keystore
+
+# iOS
+/ios/Pods/
+/ios/build/
+/ios/DerivedData/
+/ios/Podfile.lock
+/ios/xcuserdata/
+!ios/Podfile
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots
+/fastlane/test_output
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Bundler
+.bundle/
+
+# CocoaPods
+Pods/
+
+# Expo
+/.expo/
+*.expo
+*.expo-shared
+
+# Metro
+*.tmp
+.metro-cache/
+
+# Misc
+coverage/
+/.nyc_output
+.eslintcache
+.parcel-cache
+
+# TypeScript
+*.tsbuildinfo
+
+# React Native specific
+android/app/debug.keystore
+*.keystore
+
+# Build artifacts
+**/build/
+**/dist/
+
+# Temporary files
+tmp/
+temp/
+
+# JetBrains
+.idea/
+
+# Ignore local env files for serverless or other frameworks
+.serverless/
+.awcache
+
+# Local history for editors
+.localhistory/
+
+# End of file
