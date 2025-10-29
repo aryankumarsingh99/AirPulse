@@ -2,7 +2,24 @@
 
 A comprehensive air quality monitoring dashboard for tracking environmental parameters across Rourkela, Odisha. This advanced IoT-based solution provides real-time monitoring of air pollutants including PM2.5, PM10, NO2, O3, CO, SO2, along with environmental factors like temperature and humidity. Built with modern web technologies, AirPulse offers intuitive visualizations, geographic mapping of 6 monitoring stations, automated alert systems, and remote device control capabilities. Perfect for smart city initiatives, environmental research, and industrial air quality management in steel manufacturing regions.
 
-## 🚀 Quick Start
+## � Screenshots
+
+### Landing Page
+![Landing Page](screenshots/Landingpage.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboardpage.png)
+
+### Analytics
+![Analytics](screenshots/Analyticspage.png)
+
+### Historical Data
+![History](screenshots/Historypage.png)
+
+### Interactive Map
+![Map](screenshots/Map.png)
+
+## �🚀 Quick Start
 
 ```bash
 # Install dependencies
