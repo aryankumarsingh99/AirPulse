@@ -424,7 +424,7 @@ app.use(cors({
 
 ### Contact
 - Email: support@airpulse.example
-- GitHub: https://github.com/satyaranjan2005/AirPulse
+- GitHub: https://github.com/aryankumarsingh99/AirPulse
 
 ## 🎉 Success Indicators
 
